@@ -1,0 +1,22 @@
+{
+  "name": "personal_site",
+  "version": "1.0.0",
+  "description": "My personal site :^)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marvinesc3/personal-site-marvin-escobar.git"
+  },
+  "author": "Marvin Escobar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marvinesc3/personal-site-marvin-escobar/issues"
+  },
+  "homepage": "https://github.com/Marvinesc3/personal-site-marvin-escobar#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
