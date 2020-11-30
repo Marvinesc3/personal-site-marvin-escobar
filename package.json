@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Marvinesc3/personal-site-marvin-escobar#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "hover.css": "^2.3.2"
   }
 }
